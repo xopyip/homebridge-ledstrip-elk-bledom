@@ -1,5 +1,5 @@
 {
-    "name": "@lyliya/homebridge-ledstrip-ble",
+    "name": "@xopyip/homebridge-ledstrip-elk-bledom",
     "version": "1.2.2",
     "displayName": "Homebridge Ledstrip BLE",
     "description": "",
@@ -20,12 +20,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Lyliya/homebridge-ledstrip-ble.git"
+        "url": "git+https://github.com/xopyip/homebridge-ledstrip-elk-bledom.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/Lyliya/homebridge-ledstrip-ble/issues"
+        "url": "https://github.com/xopyip/homebridge-ledstrip-elk-bledom/issues"
     },
-    "homepage": "https://github.com/Lyliya/homebridge-ledstrip-ble#readme"
+    "homepage": "https://github.com/xopyip/homebridge-ledstrip-elk-bledom#readme"
 }
